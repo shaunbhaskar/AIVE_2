@@ -1,0 +1,29 @@
+body{
+background-size: cover;
+font-family: 'Architects Daughter', cursive;
+font-family: 'Noto Serif', serif;
+font-family: 'Share Tech Mono', monospace;
+font-family: 'Syncopate', sans-serif;
+}
+
+#start,#pause,#number_of_objects{
+    width: 130px;
+    font-size: 25px;
+    color: blue;
+    font-weight: bold;
+    }
+    
+    .pause_button,#status{
+        width: 130px;
+        font-size: 25px;
+        color: blue;
+        font-weight: bold;
+        }
+
+        #Controls{
+        width:1535px;
+        height: 75px; 
+        font-size:50px;       
+    }
+
+    
